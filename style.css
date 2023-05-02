@@ -1,0 +1,45 @@
+
+body{
+    font-family: Roboto, sans-serif;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    align-items: center;
+    width: 80%;
+    margin: 0 auto;
+}
+.ptext{
+    width: 60%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.naseer{
+    width: 40px;
+    border-radius: 20px;
+    clip-path: circle();
+}
+hr{
+    width: 80%;
+}
+
+.imgdiv{
+    display: flex;
+    justify-content: space-between;
+    width: 100px;
+}
+.prod1{
+    width: 600px;
+    border-radius: 30px;
+}
+
+.ovrprod{
+    display: flex;
+    justify-content: space-between;
+    width: 70%;
+    margin: 90px auto;
+
+}
